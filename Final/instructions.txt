@@ -1,0 +1,15 @@
+#Mitchell Roth 
+#https://github.com/mor16fsu/bch5884
+
+#Use pip3 to install fastaparser
+
+#In order to execute program type the following:
+
+#python3 mainDNA.py
+
+#Results will appear and a bar graph will display the nucleotide frequency.  
+
+#A new file called mitchellfinalproject.html will be created. 
+
+
+
